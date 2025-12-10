@@ -17,3 +17,5 @@ Altair is an **AI-driven intelligence analysis platform** designed to reveal hid
 
 ## Tech Stack
 Python | Neo4j | NetworkX | Streamlit / React | spaCy | HuggingFace Transformers | GitHub |
+
+----
